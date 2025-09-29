@@ -1,1 +1,2 @@
 text file12 is created in repo named gitlearning2
+new message is added in test 12 file
